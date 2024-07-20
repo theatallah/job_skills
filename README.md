@@ -142,6 +142,54 @@ ORDER BY average_salary DESC
 
 ## Question 5: Optimal Skills demand vs pay
 
+Here we want to find most skill in demand and with highest average pay
+
+So basically ordered skills from highest demand and see what is the average pay
+
+``` sql
+with top_paying_jobs AS (
+SELECT job_id,job_title,salary_year_avg,job_work_from_home
+FROM job_postings_fact
+WHERE job_title_short='Data Analyst'
+AND salary_year_avg IS NOT NULL
+
+
+),
+jobs_skills AS (
+SELECT job_title,salary_year_avg,skills
+FROM top_paying_jobs
+
+LEFT JOIN skills_job_dim USING (job_id)
+LEFT JOIN skills_dim USING (skill_id)
+),
+
+skill_demand AS (
+
+SELECT skills AS skill,count(skills) AS skill_demand
+FROM jobs_skills
+GROUP BY skills
+ORDER BY skill_demand DESC),
+
+average_salary AS (
+    SELECT skills,ROUND(avg(salary_year_avg),2) AS average_salary
+FROM jobs_skills
+GROUP BY skills
+)
+
+SELECT skills,skill_demand,average_salary
+from skill_demand
+left join average_salary on skill_demand.skill=average_salary.skills
+order by skill_demand desc,average_salary desc
+
+```
+
+# Conclusions
+
+So the conclusion that for data analyst most demanded skills are SQL, Excel and python , then comes visualization tools like tableau/power bi
+
+For Top Payment job titles for data analyst and remote work were:
+Data Analyst and director of analytics
+
 
 
 
