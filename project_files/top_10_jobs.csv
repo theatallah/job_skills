@@ -1,0 +1,67 @@
+job_title,salary_year_avg,skills,,,Row Labels,Count of skills
+Associate Director- Data Insights,255829.5,sql,,,jenkins,1
+Associate Director- Data Insights,255829.5,python,,,git,1
+Associate Director- Data Insights,255829.5,r,,,sap,1
+Associate Director- Data Insights,255829.5,azure,,,hadoop,1
+Associate Director- Data Insights,255829.5,databricks,,,databricks,1
+Associate Director- Data Insights,255829.5,aws,,,jupyter,1
+Associate Director- Data Insights,255829.5,pandas,,,crystal,1
+Associate Director- Data Insights,255829.5,pyspark,,,powerpoint,1
+Associate Director- Data Insights,255829.5,jupyter,,,flow,1
+Associate Director- Data Insights,255829.5,excel,,,pyspark,1
+Associate Director- Data Insights,255829.5,tableau,,,jira,2
+Associate Director- Data Insights,255829.5,power bi,,,power bi,2
+Associate Director- Data Insights,255829.5,powerpoint,,,go,2
+"Data Analyst, Marketing",232423,sql,,,confluence,2
+"Data Analyst, Marketing",232423,python,,,atlassian,2
+"Data Analyst, Marketing",232423,r,,,azure,2
+"Data Analyst, Marketing",232423,hadoop,,,bitbucket,2
+"Data Analyst, Marketing",232423,tableau,,,gitlab,2
+Data Analyst (Hybrid/Remote),217000,sql,,,aws,2
+Data Analyst (Hybrid/Remote),217000,crystal,,,oracle,2
+Data Analyst (Hybrid/Remote),217000,oracle,,,numpy,2
+Data Analyst (Hybrid/Remote),217000,tableau,,,excel,3
+Data Analyst (Hybrid/Remote),217000,flow,,,pandas,3
+Principal Data Analyst (Remote),205000,sql,,,snowflake,3
+Principal Data Analyst (Remote),205000,python,,,r,4
+Principal Data Analyst (Remote),205000,go,,,tableau,6
+Principal Data Analyst (Remote),205000,snowflake,,,python,7
+Principal Data Analyst (Remote),205000,pandas,,,sql,8
+Principal Data Analyst (Remote),205000,numpy,,,Grand Total,66
+Principal Data Analyst (Remote),205000,excel,,,,
+Principal Data Analyst (Remote),205000,tableau,,,,
+Principal Data Analyst (Remote),205000,gitlab,,,,
+"Director, Data Analyst - HYBRID",189309,sql,,,,
+"Director, Data Analyst - HYBRID",189309,python,,,,
+"Director, Data Analyst - HYBRID",189309,azure,,,,
+"Director, Data Analyst - HYBRID",189309,aws,,,,
+"Director, Data Analyst - HYBRID",189309,oracle,,,,
+"Director, Data Analyst - HYBRID",189309,snowflake,,,,
+"Director, Data Analyst - HYBRID",189309,tableau,,,,
+"Director, Data Analyst - HYBRID",189309,power bi,,,,
+"Director, Data Analyst - HYBRID",189309,sap,,,,
+"Director, Data Analyst - HYBRID",189309,jenkins,,,,
+"Director, Data Analyst - HYBRID",189309,bitbucket,,,,
+"Director, Data Analyst - HYBRID",189309,atlassian,,,,
+"Director, Data Analyst - HYBRID",189309,jira,,,,
+"Director, Data Analyst - HYBRID",189309,confluence,,,,
+"Principal Data Analyst, AV Performance Analysis",189000,sql,,,,
+"Principal Data Analyst, AV Performance Analysis",189000,python,,,,
+"Principal Data Analyst, AV Performance Analysis",189000,r,,,,
+"Principal Data Analyst, AV Performance Analysis",189000,git,,,,
+"Principal Data Analyst, AV Performance Analysis",189000,bitbucket,,,,
+"Principal Data Analyst, AV Performance Analysis",189000,atlassian,,,,
+"Principal Data Analyst, AV Performance Analysis",189000,jira,,,,
+"Principal Data Analyst, AV Performance Analysis",189000,confluence,,,,
+Principal Data Analyst,186000,sql,,,,
+Principal Data Analyst,186000,python,,,,
+Principal Data Analyst,186000,go,,,,
+Principal Data Analyst,186000,snowflake,,,,
+Principal Data Analyst,186000,pandas,,,,
+Principal Data Analyst,186000,numpy,,,,
+Principal Data Analyst,186000,excel,,,,
+Principal Data Analyst,186000,tableau,,,,
+Principal Data Analyst,186000,gitlab,,,,
+ERM Data Analyst,184000,sql,,,,
+ERM Data Analyst,184000,python,,,,
+ERM Data Analyst,184000,r,,,,
