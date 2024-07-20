@@ -14,6 +14,15 @@
 				"name": "sql_project",
 				"database": "sql_course",
 				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "chahine",
+				"database": "chahine",
+				"username": "postgres"
 			}
 		]
 	}
