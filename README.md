@@ -22,4 +22,22 @@ and these are the questions that were answered
 
 # Tools Used
 
+Mainly I used here:
+
+### **1. Postgres sql:**
+
+This is a database management system which is a free source, you can download it for free
+
+### **2. Visual Studio:**
+
+This is an IDE, where the actual queries were written
+
+### **3. Excel for visual:**
+
+Basically i extracted some of queries into csv and then created visuals in excel
+
+### **4. 
+
+
+
 
