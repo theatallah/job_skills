@@ -36,7 +36,15 @@ This is an IDE, where the actual queries were written
 
 Basically i extracted some of queries into csv and then created visuals in excel
 
-### **4. 
+### **4. Git and Git Hub**
+
+For versioning and for uploading /sharing the workable files
+
+# The Analysis
+
+## Question 1: What are the top paying jobs?
+
+
 
 
 
